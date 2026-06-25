@@ -56,6 +56,7 @@ Includes:
 - Florida contributed the largest share of sales within the South Region.
 - Sales increased over the reporting period.
 - Several authors consistently generated the highest revenue across the region.
+- Shipping costs were highest for the states with the strongest sales volume.
  
 ## Tools Used
 - Microsoft Power BI Desktop
