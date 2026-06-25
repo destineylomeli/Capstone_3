@@ -68,6 +68,7 @@ Includes:
 ## Files Included
 - 'Lomeli_Capstone3.pbix' - Power BI report
 - 'README.md' - Project documentation
+- 10 minute video - https://drive.google.com/drive/folders/1jUr86RdUtx1u8i8-r_spqxcTbNHLCSsj?usp=sharing
 
 ## Author
 **Destiney Lomeli**
